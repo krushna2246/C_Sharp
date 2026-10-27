@@ -1,0 +1,20 @@
+# CSharp build files
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Temporary files
+*.tmp
+*.log
